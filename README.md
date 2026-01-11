@@ -26,3 +26,22 @@ Jalankan perintah berikut di terminal:
 
 ```bash
 pip install streamlit pandas scikit-learn networkx matplotlib
+
+### 2️⃣ Jalankan Script Analisis Data
+
+'''bash
+python src/cleaning.py
+
+python src/sentiment_model.py
+
+python src/network_analysis.py
+
+### 3️⃣ Jalankan Dashboard Streamlit
+
+'''bash
+streamlit run src/app.py
+
+### 4️⃣ Akses Dashboard
+Buka browser dan kunjungi:
+
+http://localhost:8501
