@@ -1,0 +1,6 @@
+username,tweet_text,clean_text,label,predicted_sentiment,sentiment
+user1,"Antrian rumah sakit lama banget, pelayanan kurang memuaskan",antrian rumah sakit lama banget pelayanan kurang memuaskan,0,0,Negatif
+user2,BPJS sangat membantu masyarakat kurang mampu,bpjs sangat membantu masyarakat kurang mampu,0,0,Negatif
+user3,Pelayanan kesehatan di rumah sakit makin membaik,pelayanan kesehatan di rumah sakit makin membaik,1,1,Positif
+user4,Antri BPJS dari pagi sampai siang,antri bpjs dari pagi sampai siang,0,0,Negatif
+user5,Tenaga medis ramah dan pelayanan cepat,tenaga medis ramah dan pelayanan cepat,1,1,Positif
